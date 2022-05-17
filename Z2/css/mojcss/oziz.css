@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "sansserifexbflf-italic";
+    src: url(../../font/sansserifexbflf-italic.otf);
+  }
+  
+ h1 {
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 70px;
+      font-size: 50px;
+      font-family: "sansserifexbflf-italic";
+      line-height: 1;
+      letter-spacing: 3px;
+      text-align: center;
+      justify-content: center;
+  }
+
+  h2 {
+    font-size: 40px;
+    font-family: "sansserifexbflf-italic";
+    text-align: center;
+    justify-content: center;
+  }
+
+  p {
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+  }
+
+  table {
+    position: relative;
+    margin-left: 30%;
+    width: 40%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border: 1px solid rgb(131, 130, 130);
+  }

@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "sansserifexbflf-italic";
+    src: url(../../font/sansserifexbflf-italic.otf);
+  }
+  
+ h1 {
+    position: relative;
+    margin-top: 90px;
+    margin-bottom: 70px;
+    font-size: 70px;
+    font-family: "sansserifexbflf-italic";
+    line-height: 1;
+    letter-spacing: 3px;
+    text-align: center;
+    justify-content: center;
+  }
+
+
+  #cov {
+    margin-top: 5%;
+    background-image: url(https://www.svkatarina.hr/attachment/preview/600c0bb80ded8/naslovna-1.jpg);
+  }
+
+  #ban {
+    margin-top: 1%;
+    background-image: url(https://emerging-europe.com/wp-content/uploads/2018/08/banja-luka-990x556.png); 
+  }
+
+  #pov {
+    margin-top: 2%;
+    background-image: url(https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_660,h_382/https://discoverpods.com/wp-content/uploads/2018/12/maps-atlantic-oldtimer-car-compass-vintage-1442539-pxhere.com_-660x382.jpg);
+  }
+
+  #ank {
+    margin-top: 4%;
+    background-image: url(https://media.nature.com/lw800/magazine-assets/d41586-021-01358-4/d41586-021-01358-4_19173232.jpg); 
+  }
+
+
+
+  
+  
